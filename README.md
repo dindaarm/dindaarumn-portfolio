@@ -32,7 +32,6 @@ Tidak diperlukan proses *build* atau instalasi *library* sama sekali. Anda dapat
  ┣ 📜 index.html    # Dokumen utama berisi struktur konten dan profil
  ┣ 📜 styles.css    # Berisi semua deklarasi gaya dan animasi (Dark Theme)
  ┣ 📜 script.js     # Logika interaktif untuk efek gulir dan UI
- ┣ 🖼️ crop.jpg      # (Contoh) Aset foto profil yang digunakan
  ┗ 📜 README.md     # Ikhtisar dokumentasi proyek ini
 ```
 
